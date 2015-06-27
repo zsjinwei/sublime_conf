@@ -1,0 +1,22 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"C Improved",
+		"ClangAutoComplete",
+		"ConvertToUTF8",
+		"CTags",
+		"DocBlockr",
+		"FileDiffs",
+		"GitGutter",
+		"InputHelper",
+		"Package Control",
+		"SublimeAStyleFormatter",
+		"SublimeCodeIntel"
+	]
+}

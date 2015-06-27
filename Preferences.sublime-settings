@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"draw_white_space": "all",
+	"font_face": "WenQuanYi Micro Hei Mono",
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
